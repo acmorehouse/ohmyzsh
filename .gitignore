@@ -1,5 +1,9 @@
 # custom files
 custom/
+!custom/zsh-autocomplete/
+!custom/zsh-autosuggestions/
+!custom/zsh-history-substring-search/
+!custom/zsh-syntax-highlighting/
 
 # temp files directories
 cache/
